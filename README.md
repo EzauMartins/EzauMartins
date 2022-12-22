@@ -1,6 +1,6 @@
  # Olá !!
- ###  ☕Atualmente focando os estudos em java/Frameworks☕
- ####         Desenvolvedor BackEnd
+ ###  ☕Atualmente aprendendo um pouco sobre front buscando fullstack☕
+ ####         Desenvolvedor BackEnd java/SpringBoot
  <div>
   <a href="https://github.com/EzauMartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EzauMartins&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
